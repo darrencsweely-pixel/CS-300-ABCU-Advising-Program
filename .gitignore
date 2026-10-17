@@ -1,0 +1,12 @@
+# Compiled C++ files
+ProjectTwo
+*.o
+*.out
+*.exe
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
